@@ -1,0 +1,29 @@
+.text-block {
+    position: absolute;
+    bottom: 200px;
+    right: 200px;
+    background-color: whitesmoke;
+    color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+  }
+  .background {
+background: url(images.jpg);
+
+}
+  .contactus {
+    
+background-color: black;
+
+opacity: 0.8;
+
+
+}
+.contactus i,h1,h3{
+margin: 1%;
+
+color: darkgray;
+}

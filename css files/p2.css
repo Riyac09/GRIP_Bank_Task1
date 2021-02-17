@@ -1,0 +1,32 @@
+body
+{
+  background-image: url(bg4.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container { 
+  height: 50px;
+  position: relative;
+   
+}
+.bncenter{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.content{
+    border-style: dashed;
+}
+h2{
+    text-align: center;
+    color:black;
+    padding:20px;
+}
+p{
+    text-align: center;
+    color:black;
+    padding:20px;
+}
